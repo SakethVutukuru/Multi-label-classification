@@ -1,7 +1,7 @@
 # Multi-label-classification:
 Multi-label classification is a type of predictive modeling task that involves predicting zero or more class labels that are mutually non-exclusive. In contrast to traditional classification tasks, where each instance can be assigned to only one class, multi-label classification allows instances to be assigned to multiple classes simultaneously.
-#Real life applications:
+## Real life applications:
 This approach is useful for many real-world applications, where an instance can belong to multiple categories or labels. For example, multi-label classification can be used to label text, sound, and video files with multiple tags/labels.
 There are many real-life applications of multi-label classification, including image annotation, text classification, music categorization, and bioinformatics, among others. For example, in image annotation, multi-label classification can be used to identify multiple objects in an image, such as a cat, a tree, and a car. In text classification, multi-label classification can be used to classify documents into multiple topics or categories, such as politics, sports, and entertainment.
-#We are trying to predict whether a movie is drama or not.
+## We are trying to predict whether a movie is drama or not.
 To develop a predictive model that can predict whether or not a movie is a Drama, you can use the textual features of the movie stories and create your predictive models. To do this, you will need to use natural language processing techniques to extract relevant features from the text, such as word frequency, sentence structure, and sentiment. You can then use a machine learning algorithm, such as logistic regression or random forest, to train a predictive model on a labeled dataset of movies that are or are not Dramas. Once the model is trained, you can use it to predict whether a new movie is a Drama based on its textual features.
